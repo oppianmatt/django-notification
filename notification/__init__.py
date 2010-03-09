@@ -1,4 +1,4 @@
-VERSION = (0, 1, 4, "final-oppian")
+VERSION = (0, 1, 5, "oppian")
 
 def get_version():
     if VERSION[3] != "final":
